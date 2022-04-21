@@ -1,0 +1,110 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	background-image: url(/img/bodymain.jpg)
+}
+
+.container-xxl {
+	background-image: url(/img/que.gif);
+	position: relative;
+	top: 25vh;
+	border-radius: 16px;
+}
+
+.container-xxl , img {
+	width: 350px;
+	border-radius: 35px;
+	background-repeat: no-repeat;
+	background-size: 97%;
+	
+}
+
+.btn {
+	position: relative;
+	top: 18vh;
+	left: 45%;
+	border-radius: 35px;
+
+}
+
+.convert {
+	position: relative;
+	left: 21%;
+	max-width: 150%;
+	border-radius: 35px;
+}
+
+.col {
+	position: relative;
+	left: 7%;
+	border-radius: 35px;
+	
+}
+
+.dark-btn{
+	position: relative;
+	left: 9%;
+	top: 39px;
+	font-size: 25px;
+	border-radius: 11px;
+	text-align: center;
+	border-radius: 35px;
+	
+}
+
+.draco-btn{
+	position: relative;
+	left: 39%;
+	font-size: 25px;
+	text-align: center;
+	border-radius: 35px;
+	
+	
+	
+	
+}
+
+.precio-btn {
+	position: relative;
+	left: 65%;
+	font-size: 28px;
+	border-radius: 35px;
+	bottom: 69px;
+	text-align: center;
+	
+	
+}
+.precio-btn , input {
+	background: linear-gradient(#444131, #000000);
+	opacity: 90%;
+	color: aliceblue;
+	text-shadow: rgb(255, 255, 255) 1px 0 10px;
+}
+.preci {
+	position: relative;
+	left: 66%;
+	bottom: 119px;
+	border-radius: 35px;
+}
+
+
+
+.dracopr {
+	position: relative;
+	left: 60%;
+	bottom: 140px;
+	border-radius: 35px;
+}
+
+.titulo {
+	font-family: 'Shizuru', cursive;
+font-family: 'Titan One', cursive;
+text-align: center;
+color: rgb(255, 255, 255);
+text-shadow: rgb(0, 0, 0) 2px 0 10px;
+}
+
+
