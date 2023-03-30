@@ -7,6 +7,9 @@ body {
 	background-image: url(/img/bodymain.jpg)
 }
 
+img {
+	width: 100% }
+
 .container-xxl {
 	background-image: url(/img/que.gif);
 	position: relative;
